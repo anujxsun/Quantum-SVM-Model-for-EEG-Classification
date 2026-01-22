@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # Quantum Two-Class MI EEG Signal Classification
 
 ## Overview
@@ -106,4 +102,3 @@ real quantum hardware
 
 ## Author
 Anuj Kumar Kashyap
-```

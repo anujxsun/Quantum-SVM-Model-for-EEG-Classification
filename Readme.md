@@ -58,20 +58,14 @@ for EEG signal classification.
 
 ## Project Structure
 Quantum-MI-EEG-Classification/
-│
 ├── notebooks/
 │   └── Quantum_MI_EEG_Classification.ipynb
-│
 ├── data/
 │   └── README.md
-│
 ├── results/
 │   └── observations.txt
-│
 ├── requirements.txt
-│
 └── README.md
-
 
 ---
 

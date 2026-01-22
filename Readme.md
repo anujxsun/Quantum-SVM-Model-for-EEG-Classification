@@ -61,8 +61,6 @@ for EEG signal classification.
 ---
 
 ## Project Structure
-```
-
 Quantum-MI-EEG-Classification/
 │
 ├── notebooks/
@@ -75,9 +73,9 @@ Quantum-MI-EEG-Classification/
 │   └── observations.txt
 │
 ├── requirements.txt
+│
 └── README.md
 
-```
 
 ---
 
